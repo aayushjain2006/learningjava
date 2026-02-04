@@ -8,7 +8,7 @@ public class Practice1{
             if(A==B){
                 System.out.println("A is Equal to B");
             }else{
-                if(A > B){
+                if(A > B){ 
                     System.out.println("A is greater than B");
                 }else{
                     System.out.println("A is less than B");
