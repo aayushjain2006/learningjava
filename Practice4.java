@@ -10,5 +10,6 @@ public class Practice4{
             case 3 -> System.out.println("bonjour");
             default -> System.out.println("invalid button");
         }
+        sc.close();
     }
 }
