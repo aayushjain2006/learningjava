@@ -12,6 +12,7 @@ public class Practice1{
                     System.out.println("A is greater than B");
                 }else{
                     System.out.println("A is less than B");
+
                 }
             }
         }
@@ -21,4 +22,5 @@ public class Practice1{
 }    
      
        
+
 
