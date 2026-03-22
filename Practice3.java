@@ -6,6 +6,7 @@ public class Practice3 {
             System.out.println("bazinga");
         }else{
             System.out.println("not even");
+            
         }
     }
 
